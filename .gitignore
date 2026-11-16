@@ -1,0 +1,6 @@
+secrets.yaml
+*.env
+.env
+__pycache__/
+history.json
+*.log
